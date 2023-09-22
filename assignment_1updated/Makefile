@@ -1,5 +1,5 @@
 
-TARGET=assign1.1
+TARGET=q12
 
 SRC=$(TARGET).c
 OBJ=$(SRC:.c=.o)
