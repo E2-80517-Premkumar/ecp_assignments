@@ -1,5 +1,6 @@
 
-TARGET=11
+TARGET=part2_q4
+     
 
 SRC=$(TARGET).c
 OBJ=$(SRC:.c=.o)
