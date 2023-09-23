@@ -1,5 +1,5 @@
 
-TARGET=pointer_q3
+TARGET=q10
      
 
 SRC=$(TARGET).c
