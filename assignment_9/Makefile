@@ -1,5 +1,5 @@
 
-TARGET=1_c
+TARGET=1
      
 
 SRC=$(TARGET).c
